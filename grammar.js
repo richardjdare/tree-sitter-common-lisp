@@ -26,7 +26,7 @@ const delim = (open, x, close) => seq(open, x, close);
 //
 ///////////////////////////////////////////////////////////////////////////////
 module.exports = grammar({
-  name: "sexp",
+  name: "commonlisp",
 
   rules: {
     sexp: ($) => $._sexp,

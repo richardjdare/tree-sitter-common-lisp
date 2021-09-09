@@ -1,5 +1,5 @@
 {
-  "name": "sexp",
+  "name": "commonlisp",
   "rules": {
     "sexp": {
       "type": "SYMBOL",
